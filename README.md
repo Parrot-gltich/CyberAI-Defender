@@ -30,5 +30,5 @@ Ce projet regroupe trois exercices pratiques sur l'application de l'IA en cybers
 
 1. **Cloner le repository**:
 ```bash
-git clone https://github.com/votre-username/IA-Cybersecurite-TP.git
+git clone https://github.com/parrot-glitch/CyberAI-Defender.git
 cd IA-Cybersecurite-TP
